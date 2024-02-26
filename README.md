@@ -1,5 +1,4 @@
-```markdown
-# Ethereum Wallet Sweeper
+# Ethereum Wallet Sweeper 🧹 
 
 This Node.js script is designed to programmatically sweep Ethereum (ETH) from a compromised wallet in order to prevent attackers from moving assets. It provides a way to secure funds in case of a compromised private key or wallet.
 
