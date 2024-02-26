@@ -1,0 +1,10 @@
+{
+    "ETHEREUM_NETWORK": "sepolia",
+    "CHAIN_ID": "11155111",
+    "INFURA_API_KEY": "",
+    "WALLET_TO_SWEEP_PRIVATE_KEY": "",
+    "WALLET_DESTINATION": "",
+    "MIN_ETH_SWEEP": "0.02",
+    "TX_MAX_GWEI": "105",
+    "TX_MAX_PRIORITY_FEE": "3"
+}

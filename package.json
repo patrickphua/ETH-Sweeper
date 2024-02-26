@@ -1,8 +1,8 @@
 {
   "name": "ETH-Sweeper",
   "version": "1.0.1",
-  "description": "Sweeps ethers from wallet",
-  "main": "index.js",
+  "description": "This Node.js script is designed to programmatically sweep Ethereum (ETH) from a compromised wallet in order to prevent attackers from moving assets. It provides a way to secure funds in case of a compromised private key or wallet.",
+  "main": "sweep.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
@@ -10,7 +10,6 @@
   "author": "patrickphua",
   "license": "MIT",
   "dependencies": {
-    "dotenv": "^16.4.5",
     "web3": "^4.5.0"
   },
   "repository": {
